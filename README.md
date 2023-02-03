@@ -5,7 +5,7 @@ First neovim config made in Lua. (at the moment only on Windows.)
 Install Neovim 0.8 or greater.
 First install [vim-plug](https://github.com/junegunn/vim-plug), then copy the folder to:
 
-*Windows* = C:/Users/<your user here>/AppData/Local/
+*Windows* = C:/Users/<your user here>/AppData/Local/  
 *Linux* = ~/.config/
 
 Then run the :PlugInstall command inside Neovim to install all plugins.
