@@ -18,5 +18,8 @@ Plug 'arcticicestudio/nord-vim'
 Plug 'lukas-reineke/indent-blankline.nvim'
 Plug ('akinsho/toggleterm.nvim', {tag = '*'})
 Plug 'nvim-lua/plenary.nvim'
+Plug 'folke/noice.nvim'
+Plug 'MunifTanjim/nui.nvim'
+Plug 'rcarriga/nvim-notify'
 
 vim.call('plug#end')
